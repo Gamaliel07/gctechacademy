@@ -1,0 +1,10 @@
+$(document).ready(function(){
+    $(window).scroll(function(){
+        if($(this).scrollTop()>0){
+            $('img').addClass('tamaño-img');
+        }
+        else{
+            $('img').removeClass('tamaño-img');
+        }
+    });
+});
