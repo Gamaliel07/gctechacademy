@@ -269,6 +269,7 @@ background-color: #4479d9;
   /* margin-top: 10px;
   margin-bottom: 10px; */
   padding: 10px;
+  min-height: 504.95px;
 }
 .gm-card-contacto{
   font-size: 80px;
@@ -305,6 +306,10 @@ margin-bottom: 30px;
 }
 .gm-contacto-alert{
   margin-top: 20px;
+}
+
+.form-control{
+  margin-bottom: 8px !important;
 }
 /* fin seccion Contacto */
 
